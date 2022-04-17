@@ -1,0 +1,6 @@
+github.com/ChristianHering/GoEssentials v0.0.0-20220417014259-781c01e3781b h1:Mu+FOE0Nzs6hMx87cMwTJ8+sPf99AWr21QqB5fW/dZE=
+github.com/ChristianHering/GoEssentials v0.0.0-20220417014259-781c01e3781b/go.mod h1:/RnvALdgqpsMa844DOjxeWK95Uo+twLfYGp0NEVfuJs=
+github.com/libvirt/libvirt-go v7.4.0+incompatible h1:crnSLkwPqCdXtg6jib/FxBG/hweAc/3Wxth1AehCXL4=
+github.com/libvirt/libvirt-go v7.4.0+incompatible/go.mod h1:34zsnB4iGeOv7Byj6qotuW8Ya4v4Tr43ttjz/F0wjLE=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
